@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTakToe</string>
+    <string name="gameOver">Game Over, Restart to play again.</string>
+</resources>
